@@ -28,4 +28,4 @@ elif ch==4:
         c="cannot divide by zero"
     print(c)
 else:
-    print("Invalid Choice.please enter again")
+    print("Invalid Choice.")
